@@ -12,11 +12,14 @@ Batch: 2023 - 2027
 
 Infosys Batch: 11
 
+
 🔗 GitHub Profile
 https://github.com/SwaroopSai23
 
+
 📊 Power BI Project
 Project Name - Visualizing-US-Natural-Disaster-Declarations-Trends-and-Patterns
+
 
 Repository Link: https://github.com/SwaroopSai23/Visualizing-US-Natural-Disaster-Declarations-Trends-and-Patterns_
 
@@ -25,6 +28,8 @@ Live Dashboard: As We don't have Microsoft office account I Can't Share the Live
                 DashBoard Video Drive Link : https://drive.google.com/file/d/1Tj3Lf6zu8zFzluKTfa5auXLzZWTC_jBK/view?usp=sharing
                 
 Project Name: Visualizing-US-Natural-Disaster-Declarations-Trends-and-Patterns
+
+
 
 📌 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐭𝐢𝐨𝐧
 
